@@ -77,7 +77,7 @@ Frontend developer, Designer
 
 ### RRMH - Client's Portfolio Website
 Frontend developer, Designer
-- [Deploy](https:/rrmh.hu/)
+- [Deploy](https://rrmh.hu/)
 
 ### Sierpiński-szőnyeg - Sierpiński Carpet Generator
 Frontend developer, Designer, Content author
