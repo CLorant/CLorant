@@ -73,7 +73,7 @@ Team leader, Frontend developer, Designer, Content author
 
 ### Ragályi Róbert - Client's Personal Website
 Frontend developer, Designer
-- [Deploy](https://ragaliy.hu/)
+- [Deploy](https://ragalyi.hu/)
 
 ### RRMH - Client's Portfolio Website
 Frontend developer, Designer
