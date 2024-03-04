@@ -1,4 +1,4 @@
-# Hello 👋, I'm Lóránt Czibik.
+# Hello, I'm Lóránt Czibik.
 
 ## About
 I'm working towards becoming a fullstack developer, but currently I specialize in frontend development. I'm a computer science student at the Faculty of Mechanical Engineering and Informatics at the University of Miskolc. Beyond coding, I regularly exercise in the university's gym and I'm interested in digital art and design.
@@ -6,7 +6,6 @@ I'm working towards becoming a fullstack developer, but currently I specialize i
 ## Education
 ### University of Miskolc, Computer Science BSC
 2023 - Present
-
 
 ### MSZC Kandó Kálmán Technical School of IT, Software Developer and Tester Vocational Training
 2022 - 2023
@@ -75,11 +74,16 @@ Team leader, Frontend developer, Designer, Content author
 Frontend developer, Designer
 - [Deploy](https://ragalyi.hu/)
 
+<!--
 ### RRMH - Client's Portfolio Website
 Frontend developer, Designer
 - [Deploy](https://rrmh.hu/)
+-->
 
 ### Sierpiński-szőnyeg - Sierpiński Carpet Generator
 Frontend developer, Designer, Content author
 - [Deploy](https://clorant.github.io/sierpinski)
 - [Repo](https://github.com/CLorant/clorant.github.io/tree/main)
+
+### Ultimate Tic-Tac-Toe - Java Swing implementation
+- [Repo](https://github.com/GBCs999/Tic-Tac-Toe/tree/main/Java)
