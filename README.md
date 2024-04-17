@@ -70,16 +70,6 @@ Team leader, Frontend developer, Designer, Content author
 - [Repo](?)
 -->
 
-### Ragályi Róbert - Client's Personal Website
-Frontend developer, Designer
-- [Deploy](https://ragalyi.hu/)
-
-<!--
-### RRMH - Client's Portfolio Website
-Frontend developer, Designer
-- [Deploy](https://rrmh.hu/)
--->
-
 ### Sierpiński-szőnyeg - Sierpiński Carpet Generator
 Frontend developer, Designer, Content author
 - [Deploy](https://clorant.github.io/sierpinski)
